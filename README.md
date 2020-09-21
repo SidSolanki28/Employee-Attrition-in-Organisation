@@ -27,9 +27,9 @@ This project helps to avoid attrition of working employees and hiring of new emp
 - Packages: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Tensorflow and Catboost
 - Resources used:
 
-* Analytics Vidya
-* towards data science
-* Kaggle
+  * Analytics Vidya
+  * towards data science
+  * Kaggle
 
 ---
 
