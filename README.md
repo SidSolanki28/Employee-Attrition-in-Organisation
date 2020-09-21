@@ -10,6 +10,7 @@
 - Various classification models like Logistic Regression, KNN, SVM, Kernel SVM, Naive Bayes, Decision Tree, Random Forest, ANN, XGBosst and CatBoost  are used.
 - Model Performance Comparison
 - Conclusion: Top Reasons why employees are leaving an organisation.
+
 ---
 
 ## About Project
@@ -17,6 +18,7 @@
 We are developing classification models for companies to determine whether an employee is going to quit or not. 
 These models are based on an extensive dataset which is easily available by HR.
 This project helps to avoid attrition of working employees and hiring of new employees which need time, capital and skills.
+
 ---
 
 ## Code and Resources used
@@ -28,6 +30,7 @@ This project helps to avoid attrition of working employees and hiring of new emp
 * Analytics Vidya
 * towards data science
 * Kaggle
+
 ---
 
 ## Web Scraping
