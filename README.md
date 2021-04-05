@@ -11,6 +11,8 @@
 - Model Performance Comparison
 - Conclusion: Top Reasons why employees are leaving an organisation.
 
+<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/employee-attrition.jpg" width="400" height="250">
+
 ---
 
 ## About Project
