@@ -163,6 +163,7 @@ Top Reasons why Employees leave the Organization:
 - **Monthly Income** As expected, Income is a huge factor as why employees leave the organization in search for a better salary.
 - **Age** This could also be expected, since people who are aiming to retire will leave the organization.
 Knowing the most likely reasons why employees leave the organization, can help the organization take action and reduce the level of Attrition inside the organization.
+
 ---
 
 ## Further Improvements
@@ -173,4 +174,5 @@ To further improve the model, below options can be considered:
 - Tune all classification models
 - Use cross-validation and grid-search
 - Compare models with Accuracy, Recall, Precision, F1 score and AUC/ROC Curve
+-
 ---
